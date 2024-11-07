@@ -1,0 +1,19 @@
+.imagen{
+    position: absolute;
+    width: 257px;
+    right: 0;
+    top: 0;
+    height: auto;
+}
+
+body{
+    background-color: blueviolet;
+}
+
+h1{
+    color:aqua;
+}
+
+h4{
+    color:yellow
+}
